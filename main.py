@@ -1,3 +1,4 @@
+# use the following command on terminal to install necessary package first
 # pip install random-words
 import os
 from random_word import RandomWords
